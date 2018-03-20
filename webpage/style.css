@@ -1,0 +1,147 @@
+/*
+
+    Indian Institute of Information Technology, Sricity
+
+                   Krit Karan Singh
+
+
+
+*/
+
+body 
+{
+	font:12px arial;
+	color: #ffffff;
+	text-align:center;
+	padding:35px; 
+	background-image:url(bg.jpg)
+		
+}
+
+p, span 
+{
+   margin:0;
+   padding:0; 
+}
+
+form 
+{
+	padding: 0px;
+	margin:0px;
+}
+ 
+ 
+input
+{ 
+	font:14px arial;
+}
+ 
+a 
+{
+	color:#817679;
+	text-decoration:none;
+}
+ 
+a:hover 
+{ 
+	text-decoration:underline; 
+}
+ 
+#loginform 
+{
+
+	padding-bottom:25px;
+	background: #EDC9AF;
+	width:400px;
+	height:150px;
+	border:2px solid #000000; 
+	margin-right:auto; 
+	margin-left:auto;
+	margin-top: 100px;
+}
+
+#wrapper_chat
+{
+	padding-bottom:25px;
+	background:	#EDC9AF;
+	width:886px;
+	border:2px solid #000000; 
+}
+ 
+#loginform 
+{
+	padding-top:25px; 
+}
+ 
+#loginform p 
+{ 
+	margin: 5px; 
+}
+	
+#users 
+{
+	text-align:justify;
+	margin-bottom:23px;
+	padding:0px;
+	background:#000000;
+	height:268px;
+	width:100px;
+	border:2px solid #ffffff;
+	overflow:auto; 
+	position:fixed;
+	top:149px;
+	left:759px;
+	padding-left: 29px;
+	
+}
+ 
+#chatbox 
+{
+	text-align:left;
+	margin-left:25px;
+	margin-bottom:25px;
+	padding:10px;
+	background:#000000;
+	height:370px;
+	width:636px;
+	border:2px solid #ffffff;
+	overflow:auto; 
+}
+ 
+#usermsg 
+{
+	margin-left:-130px;
+	width:508px;
+	border:2px solid #000000; 
+}
+ 
+#submit 
+{ 
+	width: 60px; 
+}
+ 
+#menu { 
+	padding:16.5px 50px 0.5px 22px; 
+}
+ 
+.welcome 
+{ 
+	float:left; 
+}
+ 
+.logout 
+{ 
+	margin-left:257px;
+}
+
+.current_users
+ { 
+
+	margin-left:660px;
+}
+ 
+.msgln { 
+	margin:0 0 2px 0; 
+}
+ 
+ 
